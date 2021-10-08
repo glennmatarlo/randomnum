@@ -1,0 +1,34 @@
+.xx {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    padding-top: 50px;
+  }
+  
+  button {
+    height: 130px;
+    width: 130px;
+    font-size: 30px;
+    border-radius: 50%;
+    margin-left: 29px;
+    color: royalblue;
+  }
+  
+  h1 {
+    margin-top: 3rem;
+    text-align: center;
+    color: #FFA500;
+    font-size: 30px;
+    font-family: TW Cen MT;
+  }
+  
+  input {
+    text-align: center;
+    height: 80px;
+    width: 200px;
+    font-size: 50px;
+    color: #FFA500;
+    font-family: TW Cen MT;
+    font-weight:bold;
+  }
